@@ -15,7 +15,7 @@ This is a simple console application written in C# to manage a Ticket Booking Sy
 
 1. Clone the repository:
     ```bash
-   git clone https://github.com/Hannanbutt1256/ticket-booking-system.git
+   git clone https://github.com/Hannanbutt1256/TicketBookingSystem.git
 
 3. Open the solution in your preferred C# development environment.
 4. Run the application and follow the on-screen instructions.
