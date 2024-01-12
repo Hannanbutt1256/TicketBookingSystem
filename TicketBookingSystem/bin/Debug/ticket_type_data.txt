@@ -1,0 +1,4 @@
+1	Executive	10000
+2	Gold	8000
+3	Economy	4000
+4	Silver	6000
