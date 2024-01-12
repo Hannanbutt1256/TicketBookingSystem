@@ -9,7 +9,8 @@ Data Persistence: Ticket information is stored in a tab-separated text file, ens
 Ticket Booking: Users can book tickets by providing necessary details such as customer name, seat number, and date.
 View Booked Tickets: Check existing bookings and associated details at any time.
 Getting Started
-Clone the repository: git clone https://github.com/your-username/ticket-booking-system.git
+Clone the repository: git clone https://github.com/your-username/ticket-booking-system.git![Hannan_Butt_bisiness_man_in_suit_with_money_around_and_smoking__d8ed6801-68ed-4a0a-bd99-be7d33de0fc6](https://github.com/Hannanbutt1256/TicketBookingSystem/assets/125634907/5ac35bce-b9f1-4a59-b5f0-149d280ef88a)
+
 Open the solution in your preferred C# development environment.
 Run the application and follow the on-screen instructions.
 How to Use
